@@ -10,6 +10,7 @@ packages = [{include = "src"}]
 python = "^3.10"
 pyqt6 = "^6.4.0"
 pyqt-tools = "^1.0.0"
+pyqt5 = "^5.15.7"
 
 [tool.poetry.scripts]
 calculate = "main:main"

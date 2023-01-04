@@ -177,7 +177,7 @@ test = ["asv", "gmpy2", "mpmath", "pytest", "pytest-cov", "pytest-xdist", "sciki
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "dd5b3ba4f67cedefe41ff7bf173586a91156b6fcef0aed4de8ed4b0441d63e28"
+content-hash = "e87a11b9c28a95c00306fcf8c64d6da8f38966ac47d4e19c55914af339d0b833"
 
 [metadata.files]
 guidata = [
