@@ -1,6 +1,6 @@
 from src.classes.MainWindowUI import Ui_MainWindow, QtWidgets
 from PyQt5 import QtCore, QtGui
-from src.classes.calculate_formulas import *
+from src.calculate_formulas import *
 
 
 class FillWindow(Ui_MainWindow):
