@@ -4,5 +4,5 @@
 
 [.exe файл](https://drive.google.com/file/d/1_iUSb5NDCfEfMRSvzGcgVslEiWURWcGi/view?usp=share_link )
 
-![](https://drive.google.com/file/d/1ZGbeEwvEEuLYjyGNZ4wFvONXUCtBD_79/view?usp=sharing)
+![](https://i.postimg.cc/nLk5y9X4/Screenshot-from-2023-01-05-18-49-32.png)
 
